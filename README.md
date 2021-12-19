@@ -1,0 +1,2 @@
+# NftCard
+Simple Nft Card

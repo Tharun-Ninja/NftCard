@@ -1,2 +1,3 @@
 # NftCard
-Simple Nft Card
+
+Click [NftCard](https://tharun-ninja.github.io/NftCard/) to view the project
